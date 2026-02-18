@@ -1,0 +1,33 @@
+
+{
+  "name": "StyleAI Virtual Studio",
+  "short_name": "StyleAI",
+  "description": "High-fidelity virtual try-on and AI fashion stylist.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3050/3050221.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3050/3050221.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["fashion", "lifestyle", "productivity"],
+  "screenshots": [
+    {
+      "src": "https://images.unsplash.com/photo-1539109132314-d4a8c57ee82c?auto=format&fit=crop&q=80&w=1080",
+      "sizes": "1080x1920",
+      "type": "image/jpeg",
+      "label": "Virtual Try-On Home"
+    }
+  ]
+}

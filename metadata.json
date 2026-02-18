@@ -1,0 +1,7 @@
+{
+  "name": "YUVA FASHION DESIGNER",
+  "description": "A high-end fashion tech application for virtual try-on and AI-driven style consulting, powered by Yuvan and Gemini 3 flash preview.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
